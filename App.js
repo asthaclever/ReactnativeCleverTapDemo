@@ -13,7 +13,7 @@ import CleverTap from 'clevertap-react-native';
 const App = () => {
   useEffect(() => {
     CleverTap.onUserLogin({
-      Name: 'Aakruti Kumari',
+      Name: 'Ashtri Kumari',
       Email: 'test@gmail.com',
     });
 
