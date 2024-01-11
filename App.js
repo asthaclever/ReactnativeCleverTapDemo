@@ -14,7 +14,7 @@ const App = () => {
   useEffect(() => {
     CleverTap.onUserLogin({
       Name: 'Ashtri Kumari',
-      Email: 'test@gmail.com',
+      Email: 'test123@gmail.com',
     });
 
     const request = async () => {
